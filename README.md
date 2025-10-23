@@ -43,11 +43,9 @@ Achieved an accuracy score of approximately **0.7679** on the Kaggle leaderboard
 ---
 
 ## How to Run
-
 1. Ensure all dependencies are installed (`scikit-learn`, `pandas`, `numpy`).
 2. Run the notebook in a Python environment.
 3. The notebook outputs a `submission.csv` file ready for Kaggle submission.
-
 ---
 
 ## Mathematical Explanation
@@ -58,10 +56,7 @@ Achieved an accuracy score of approximately **0.7679** on the Kaggle leaderboard
 
 ## Author
 
-**Meidilefki**
+**Meidi lefki**
 
 ---
-
-## Contact
-
-(Your email or LinkedIn here)
+u
